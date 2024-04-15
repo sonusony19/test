@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>App_Update</key>
+        <value>{"force_update":false,"version":1}</value>
+    </entry>
+</defaultsMap>
